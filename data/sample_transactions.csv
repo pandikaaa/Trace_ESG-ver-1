@@ -1,0 +1,101 @@
+transaction_id,transaction_date,supplier_id,supplier_name,item_category,item_description,activity_quantity,activity_unit,purchase_amount,currency,data_method,evidence_reference,evidence_status,reporting_period,supplier_emission_factor
+TRX-2025-001,2025-01-08,S11,CV Alat Tulis Cemerlang,Perlengkapan Kantor,Perlengkapan cetak dan arsip,1,paket,7120000,IDR,spend_based,INV-S11-2501-001.pdf,provided,2025,
+TRX-2025-002,2025-01-08,S11,CV Alat Tulis Cemerlang,Perlengkapan Kantor,Alat tulis kantor bulanan,1,paket,30166000,IDR,spend_based,,missing,2025,
+TRX-2025-003,2025-01-12,S11,CV Alat Tulis Cemerlang,Perlengkapan Kantor,Perlengkapan cetak dan arsip,1,paket,18415000,IDR,spend_based,INV-S11-2501-003.pdf,provided,2025,
+TRX-2025-004,2025-01-17,S03,PT Sawit Lestari Abadi,Minyak Sawit,Minyak sawit olahan RBD,8650,kg,149297000,IDR,primary_supplier,INV-S03-2501-004.pdf,provided,2025,2.05
+TRX-2025-005,2025-01-18,S06,UD Kayu Palet Mandiri,Palet Kayu,"Palet kayu standar 1,2 x 1 m",1489,unit,139662000,IDR,secondary_activity,INV-S06-2501-005.pdf,provided,2025,
+TRX-2025-006,2025-01-25,S07,PT Kimia Bersih Utama,Bahan Kimia Pembersih,Sanitizer peralatan,400,L,10296000,IDR,spend_based,INV-S07-2501-006.pdf,provided,2025,
+TRX-2025-007,2025-01-29,S14,PT Perisa Rasa Nusantara,Perisa Makanan,Perisa buah,2800,kg,238973000,IDR,spend_based,INV-S14-2501-007.pdf,provided,2025,
+TRX-2025-008,2025-02-05,S20,PT Grosir Bahan Pokok,Gula Pasir,Gula pasir kristal putih,,kg,570374000,IDR,secondary_activity,INV-S20-2502-008.pdf,provided,2025,
+TRX-2025-009,2025-02-07,S19,PT Layanan Teknik Terpadu,Jasa Konsultan,Jasa konsultan K3,1,paket,29076000,IDR,spend_based,,missing,2025,
+TRX-2025-010,2025-02-22,S01,PT Agro Tepung Sentosa,Tepung Terigu,Tepung terigu protein sedang,25950,kg,311557000,IDR,primary_supplier,INV-S01-2502-010.pdf,provided,2025,0.78
+TRX-2025-011,2025-02-24,S10,PT Konsultan Mitra Strategi,Jasa Konsultan,Jasa konsultan sistem mutu,1,paket,37449000,IDR,spend_based,INV-S10-2502-011.pdf,provided,2025,
+TRX-2025-012,2025-02-24,S19,PT Layanan Teknik Terpadu,Jasa Pemeliharaan,Perawatan boiler,1,paket,53167000,IDR,spend_based,INV-S19-2502-012.pdf,provided,2025,
+TRX-2025-013,2025-03-02,S20,PT Grosir Bahan Pokok,Gula Pasir,Gula pasir curah,11350,kg,179105000,IDR,secondary_activity,INV-S20-2503-013.pdf,provided,2025,
+TRX-2025-014,2025-03-04,S03,PT Sawit Lestari Abadi,Minyak Sawit,Minyak goreng curah,17400,kg,290801000,IDR,spend_based,INV-S03-2503-014.pdf,provided,2024,
+TRX-2025-015,2025-03-04,S12,PT Tepung Karya Pangan,Gula Pasir,Gula pasir curah,24650,kg,377800000,IDR,spend_based,INV-S12-2503-015.pdf,provided,2025,
+TRX-2025-016,2025-03-04,S13,PT Pack Solusi Indonesia,Kemasan Karton,Karton gelombang 5 ply,12800,kg,211090000,IDR,secondary_activity,INV-S13-2503-016.pdf,provided,2025,
+TRX-2025-017,2025-03-06,S13,PT Pack Solusi Indonesia,Kemasan Karton,Karton gelombang 5 ply,13700,kg,202253000,IDR,secondary_activity,INV-S13-2503-017.pdf,provided,2025,
+TRX-2025-018,2025-03-08,S07,PT Kimia Bersih Utama,Bahan Kimia Pembersih,Pembersih lantai produksi,2200,L,57320000,IDR,spend_based,INV-S07-2503-018.pdf,provided,2025,
+TRX-2025-019,2025-03-16,S18,PT Digital Peralatan Kerja,Perangkat IT,Laptop kerja staf,35,unit,380479000,IDR,secondary_activity,INV-S18-2503-019.pdf,provided,2025,
+TRX-2025-020,2025-03-20,S19,PT Layanan Teknik Terpadu,Jasa Pemeliharaan,Kalibrasi peralatan,1,paket,159495000,IDR,spend_based,INV-S19-2503-020.pdf,provided,2025,
+TRX-2025-021,2025-03-22,S09,PT Servis Mesin Andalan,Jasa Pemeliharaan,Perawatan boiler,1,paket,112261000,IDR,spend_based,INV-S09-2503-021.pdf,provided,2025,
+TRX-2025-022,2025-03-24,S11,CV Alat Tulis Cemerlang,Perlengkapan Kantor,Perlengkapan cetak dan arsip,1,paket,23617000,IDR,spend_based,INV-S11-2503-022.pdf,partial,2025,
+TRX-2025-023,2025-03-28,S20,PT Grosir Bahan Pokok,Gula Pasir,Gula pasir curah,23450,kg,357588000,IDR,secondary_activity,INV-S20-2503-023.pdf,provided,2025,
+TRX-2025-024,2025-03-31,S07,PT Kimia Bersih Utama,Bahan Kimia Pembersih,Sanitizer peralatan,500,L,12208000,IDR,secondary_activity,INV-S07-2503-024.pdf,provided,2025,
+TRX-2025-025,2025-04-05,S10,PT Konsultan Mitra Strategi,Jasa Konsultan,Jasa konsultan sistem mutu,1,paket,109680000,IDR,spend_based,INV-S10-2504-025.pdf,provided,2025,
+TRX-2025-026,2025-04-08,S17,CV Kimia Industri Prima,Bahan Kimia Pembersih,Pembersih lantai produksi,350,L,9165000,IDR,secondary_activity,INV-S17-2504-026.pdf,provided,2025,
+TRX-2025-027,2025-04-11,S05,PT Plastindo Flexipack,Kemasan Plastik Film,Plastik kemasan primer,3700,kg,117837000,IDR,primary_supplier,,missing,2025,2.5
+TRX-2025-028,2025-04-13,S03,PT Sawit Lestari Abadi,Minyak Sawit,Minyak goreng curah,28350,kg,512636000,IDR,primary_supplier,,missing,2025,2.05
+TRX-2025-029,2025-04-19,S20,PT Grosir Bahan Pokok,Gula Pasir,Gula pasir kristal putih,29850,kg,509276000,IDR,secondary_activity,INV-S20-2504-029.pdf,provided,2025,
+TRX-2025-030,2025-04-21,S12,PT Tepung Karya Pangan,Gula Pasir,Gula pasir curah,5500,kg,95475000,IDR,secondary_activity,INV-S12-2504-030.pdf,provided,2025,
+TRX-2025-031,2025-04-23,S20,PT Grosir Bahan Pokok,Gula Pasir,Gula pasir curah,23550,kg,352439000,IDR,spend_based,INV-S20-2504-031.pdf,provided,2025,
+TRX-2025-032,2025-04-24,S15,PT Gudang Palet Logistik,Palet Kayu,"Palet kayu standar 1,2 x 1 m",1385,unit,136570000,IDR,secondary_activity,INV-S15-2504-032.pdf,provided,2025,
+TRX-2025-033,2025-05-16,S10,PT Konsultan Mitra Strategi,Jasa Konsultan,Jasa konsultan sistem mutu,1,paket,117438000,IDR,spend_based,INV-S10-2505-033.pdf,provided,2025,
+TRX-2025-034,2025-05-16,S16,PT Minyak Nabati Raya,Minyak Sawit,Minyak sawit olahan RBD,-500,kg,82064000,IDR,secondary_activity,INV-S16-2505-034.pdf,provided,2025,
+TRX-2025-035,2025-05-18,S20,PT Grosir Bahan Pokok,Gula Pasir,Gula pasir kristal putih,32.15,ton,490082000,IDR,secondary_activity,INV-S20-2505-035.pdf,provided,2025,
+TRX-2025-036,2025-05-20,S07,PT Kimia Bersih Utama,Bahan Kimia Pembersih,Sanitizer peralatan,850,L,21935000,IDR,secondary_activity,INV-S07-2505-036.pdf,provided,2025,
+TRX-2025-037,2025-05-22,S15,PT Gudang Palet Logistik,Palet Kayu,Palet kayu ekspor,837,unit,82125000,IDR,secondary_activity,INV-S15-2505-037.pdf,provided,2025,
+TRX-2025-038,2025-05-28,S01,PT Agro Tepung Sentosa,Tepung Terigu,Tepung terigu protein sedang,20700,kg,223686000,IDR,primary_supplier,INV-S01-2505-038.pdf,provided,2025,0.78
+TRX-2025-039,2025-05-30,S01,PT Agro Tepung Sentosa,Tepung Terigu,Tepung terigu protein tinggi,52400,kg,608728000,IDR,primary_supplier,INV-S01-2505-039.pdf,provided,2025,0.78
+TRX-2025-040,2025-05-31,S09,PT Servis Mesin Andalan,Jasa Pemeliharaan,Kalibrasi peralatan,1,paket,169378000,IDR,spend_based,INV-S09-2505-040.pdf,provided,2025,
+TRX-2025-041,2025-06-04,S19,PT Layanan Teknik Terpadu,Jasa Konsultan,Jasa konsultan sistem mutu,1,paket,95865000,IDR,spend_based,,missing,2025,
+TRX-2025-042,2025-06-05,S06,UD Kayu Palet Mandiri,Palet Kayu,Palet kayu ekspor,152,unit,13708000,IDR,secondary_activity,INV-S06-2506-042.pdf,provided,2025,
+TRX-2025-043,2025-06-16,S08,PT Teknologi Kantor Nusa,Perlengkapan Kantor,Perlengkapan cetak dan arsip,1,paket,14597000,IDR,spend_based,,missing,2025,
+TRX-2025-044,2025-06-22,S06,UD Kayu Palet Mandiri,Palet Kayu,Palet kayu ekspor,1310,unit,118362000,IDR,secondary_activity,INV-S06-2506-044.pdf,provided,2025,
+TRX-2025-045,2025-06-25,S12,PT Tepung Karya Pangan,Gula Pasir,Gula pasir kristal putih,23.9,ton,388947000,IDR,secondary_activity,INV-S12-2506-045.pdf,provided,2025,
+TRX-2025-046,2025-06-27,S05,PT Plastindo Flexipack,Kemasan Plastik Film,Plastik kemasan primer,1350,kg,39604000,IDR,primary_supplier,,provided,2025,2.5
+TRX-2025-047,2025-06-29,S12,PT Tepung Karya Pangan,Tepung Terigu,Tepung terigu protein tinggi,,kg,138773000,IDR,secondary_activity,INV-S12-2506-047.pdf,provided,2025,
+TRX-2025-048,2025-07-02,S18,PT Digital Peralatan Kerja,Perangkat IT,PC desktop,40,unit,494187000,IDR,spend_based,INV-S18-2507-048.pdf,provided,2025,
+TRX-2025-061,2025-09-03,S02,CV Gula Manis Jaya,Gula Pasir,Gula pasir kristal putih,37400,kg,569514000,IDR,secondary_activity,INV-S02-2509-061.pdf,provided,2025,
+TRX-2025-049,2025-07-08,S19,,Jasa Konsultan,Jasa konsultan K3,1,paket,23336000,IDR,spend_based,INV-S19-2507-049.pdf,provided,2025,
+TRX-2025-050,2025-07-12,S01,PT Agro Tepung Sentosa,Tepung Terigu,Tepung terigu serbaguna,31050,kg,354083000,IDR,spend_based,INV-S01-2507-050.pdf,provided,2025,
+TRX-2025-096,2025-11-13,S06,UD Kayu Palet Mandiri,Palet Kayu,"Palet kayu standar 1,2 x 1 m",348,unit,31305000,IDR,secondary_activity,INV-S06-2511-087.pdf,provided,2025,
+TRX-2025-051,2025-07-16,S13,PT Pack Solusi Indonesia,Kemasan Karton,Dus pengiriman produk jadi,7950,kg,121113000,IDR,secondary_activity,INV-S13-2507-051.pdf,provided,2025,
+TRX-2025-052,2025-07-18,S18,PT Digital Peralatan Kerja,Perangkat IT,Laptop kerja staf,20,unit,241976000,IDR,secondary_activity,INV-S18-2507-052.pdf,provided,2025,
+TRX-2025-053,31/02/2025,S02,CV Gula Manis Jaya,Gula Pasir,Gula pasir curah,27150,kg,422545000,IDR,secondary_activity,INV-S02-2507-053.pdf,provided,2025,
+TRX-2025-054,2025-07-29,S16,PT Minyak Nabati Raya,Minyak Sawit,Minyak sawit olahan RBD,28650,kg,562680000,IDR,secondary_activity,,missing,2025,
+TRX-2025-055,2025-07-30,S04,PT Karton Prima Kemas,Kemasan Karton,Karton gelombang 5 ply,9150,kg,133685000,IDR,primary_supplier,INV-S04-2507-055.pdf,provided,2025,1.05
+TRX-2025-056,2025-08-01,S08,PT Teknologi Kantor Nusa,Perlengkapan Kantor,Perlengkapan cetak dan arsip,1,paket,35610000,IDR,spend_based,,missing,2025,
+TRX-2025-057,2025-08-11,S03,PT Sawit Lestari Abadi,Minyak Sawit,Minyak sawit olahan RBD,17300,kg,312102000,IDR,primary_supplier,INV-S03-2508-057.pdf,provided,2025,2.05
+TRX-2025-058,2025-08-12,S12,PT Tepung Karya Pangan,Gula Pasir,Gula pasir kristal putih,22150,pcs,386088000,IDR,secondary_activity,INV-S12-2508-058.pdf,provided,2025,
+TRX-2025-059,2025-08-13,S03,PT Sawit Lestari Abadi,Minyak Sawit,Minyak goreng curah,12400,kg,221310000,IDR,primary_supplier,INV-S03-2508-059.pdf,provided,2025,2.05
+TRX-2025-060,2025-08-21,S08,PT Teknologi Kantor Nusa,Perangkat IT,PC desktop,15,unit,10646,USD,spend_based,INV-S08-2508-060.pdf,provided,2025,
+TRX-2025-061,2025-09-03,S02,CV Gula Manis Jaya,Gula Pasir,Gula pasir kristal putih,37400,kg,569514000,IDR,secondary_activity,INV-S02-2509-061.pdf,provided,2025,
+TRX-2025-062,2025-09-03,S03,PT Sawit Lestari Abadi,Minyak Sawit,Minyak goreng curah,19950,kg,380632000,IDR,primary_supplier,,missing,2025,2.05
+TRX-2025-063,2025-09-03,S04,PT Karton Prima Kemas,Kemasan Karton,Karton gelombang 5 ply,4000,kg,65607000,IDR,primary_supplier,INV-S04-2509-063.pdf,provided,2025,1.05
+TRX-2025-064,2025-09-06,S16,PT Minyak Nabati Raya,Minyak Sawit,Minyak sawit olahan RBD,8150,,136674000,IDR,secondary_activity,INV-S16-2509-064.pdf,provided,2025,
+TRX-2025-065,2025-09-09,S01,PT Agro Tepung Sentosa,Tepung Terigu,Tepung terigu serbaguna,56350,kg,686014000,IDR,primary_supplier,INV-S01-2509-065.pdf,provided,2025,0.78
+TRX-2025-066,2025-09-21,S14,PT Perisa Rasa Nusantara,Perisa Makanan,Perisa cokelat,950,kg,81606000,IDR,secondary_activity,INV-S14-2509-066.pdf,provided,2025,
+TRX-2025-067,2025-09-22,S17,CV Kimia Industri Prima,Bahan Kimia Pembersih,Pembersih lantai produksi,1800,L,43925000,IDR,spend_based,INV-S17-2509-067.pdf,partial,2025,
+TRX-2025-068,2025-09-23,S20,PT Grosir Bahan Pokok,Gula Pasir,Gula pasir kristal putih,34100,pcs,590285000,IDR,secondary_activity,INV-S20-2509-068.pdf,provided,2025,
+TRX-2025-069,2025-09-25,S02,CV Gula Manis Jaya,Gula Pasir,Gula pasir kristal putih,11450,kg,194856000,IDR,spend_based,INV-S02-2509-069.pdf,provided,2025,
+TRX-2025-024,2025-03-31,S07,PT Kimia Bersih Utama,Bahan Kimia Pembersih,Sanitizer peralatan,500,L,12208000,IDR,secondary_activity,INV-S07-2503-024.pdf,provided,2025,
+TRX-2025-070,2025-09-27,S08,PT Teknologi Kantor Nusa,Perlengkapan Kantor,Perlengkapan cetak dan arsip,1,paket,10871000,IDR,spend_based,,missing,2025,
+TRX-2025-071,2025-10-05,S14,PT Perisa Rasa Nusantara,Perisa Makanan,Perisa cokelat,800,kg,64304000,IDR,secondary_activity,INV-S14-2510-071.pdf,provided,2025,
+TRX-2025-072,2025-10-07,S04,PT Karton Prima Kemas,Kemasan Karton,Karton gelombang 5 ply,1250,kg,17221000,IDR,primary_supplier,INV-S04-2510-072.pdf,provided,2025,1.05
+TRX-2025-073,2025-10-07,S04,PT Karton Prima Kemas,Kemasan Karton,Dus pengiriman produk jadi,5050,kg,70005000,IDR,primary_supplier,INV-S04-2510-073.pdf,provided,2025,1.05
+TRX-2025-074,2025-10-07,S08,PT Teknologi Kantor Nusa,Perlengkapan Kantor,Alat tulis kantor bulanan,1,paket,29738000,IDR,spend_based,INV-S08-2510-074.pdf,provided,2025,
+TRX-2025-075,2025-10-08,S15,PT Gudang Palet Logistik,Palet Kayu,Palet kayu ekspor,867,unit,75831000,IDR,secondary_activity,INV-S15-2510-075.pdf,provided,2025,
+TRX-2025-076,2025-10-08,S17,CV Kimia Industri Prima,Bahan Kimia Pembersih,Sanitizer peralatan,550,L,12765000,IDR,secondary_activity,INV-S17-2510-076.pdf,provided,2025,
+TRX-2025-077,2025-10-12,S09,PT Servis Mesin Andalan,Jasa Pemeliharaan,Servis berkala mesin produksi,1,paket,195717000,IDR,spend_based,INV-S09-2510-077.pdf,provided,2025,
+TRX-2025-039,2025-05-30,S01,PT Agro Tepung Sentosa,Tepung Terigu,Tepung terigu protein tinggi,52400,kg,608728000,IDR,primary_supplier,INV-S01-2505-039.pdf,provided,2025,0.78
+TRX-2025-078,2025-10-12,S13,PT Pack Solusi Indonesia,Kemasan Karton,Dus pengiriman produk jadi,11850,kg,185474000,IDR,secondary_activity,INV-S13-2510-078.pdf,provided,2024,
+TRX-2025-079,2025-10-14,S03,PT Sawit Lestari Abadi,Minyak Sawit,Minyak goreng curah,25.4,ton,496470000,IDR,secondary_activity,INV-S03-2510-079.pdf,provided,2025,
+TRX-2025-080,2025-10-18,S09,PT Servis Mesin Andalan,Jasa Pemeliharaan,Kalibrasi peralatan,1,paket,165699000,IDR,spend_based,,requested,2025,
+TRX-2025-081,2025-10-22,S04,PT Karton Prima Kemas,Kemasan Karton,Dus pengiriman produk jadi,3550,kg,47980000,IDR,primary_supplier,INV-S04-2510-081.pdf,provided,2025,1.05
+TRX-2025-082,2025-10-23,S01,PT Agro Tepung Sentosa,Tepung Terigu,Tepung terigu protein tinggi,14250,kg,183875000,IDR,primary_supplier,INV-S01-2510-082.pdf,partial,2025,0.78
+TRX-2025-083,2025-10-28,S05,PT Plastindo Flexipack,Kemasan Plastik Film,Plastik kemasan primer,3900,kg,120944000,IDR,spend_based,INV-S05-2510-083.pdf,provided,2025,
+TRX-2025-084,2025-10-29,S10,PT Konsultan Mitra Strategi,Jasa Konsultan,Jasa konsultan sistem mutu,1,paket,51278000,IDR,spend_based,,provided,2025,
+TRX-2025-085,2025-11-03,S05,PT Plastindo Flexipack,Kemasan Plastik Film,Plastik kemasan primer,4950,kg,140271000,IDR,primary_supplier,,requested,2025,2.5
+TRX-2025-086,2025-11-04,S02,CV Gula Manis Jaya,Gula Pasir,Gula pasir curah,30900,kg,495029000,IDR,spend_based,INV-S02-2511-086.pdf,provided,2025,
+TRX-2025-087,2025-11-13,S06,UD Kayu Palet Mandiri,Palet Kayu,"Palet kayu standar 1,2 x 1 m",348,unit,31305000,IDR,secondary_activity,INV-S06-2511-087.pdf,provided,2025,
+TRX-2025-088,2025-11-14,S09,PT Servis Mesin Andalan,Jasa Pemeliharaan,Kalibrasi peralatan,1,paket,48755000,IDR,spend_based,INV-S09-2511-088.pdf,provided,2025,
+TRX-2025-089,2025-11-17,S14,PT Perisa Rasa Nusantara,Perisa Makanan,Perisa buah,1300,kg,120632000,IDR,secondary_activity,INV-S14-2511-089.pdf,provided,2025,
+TRX-2025-090,2025-11-26,S18,PT Digital Peralatan Kerja,Perangkat IT,Laptop kerja staf,9,unit,108324000,IDR,spend_based,INV-S18-2511-090.pdf,provided,2025,
+TRX-2025-091,2025-12-02,S13,PT Pack Solusi Indonesia,Kemasan Karton,Dus pengiriman produk jadi,3050,box,45957000,IDR,secondary_activity,INV-S13-2512-091.pdf,provided,2025,
+TRX-2025-092,2025-12-03,S20,PT Grosir Bahan Pokok,Gula Pasir,Gula pasir curah,36200,kg,586333000,IDR,secondary_activity,INV-S20-2512-092.pdf,provided,2025,
+TRX-2025-093,2026-01-06,S01,PT Agro Tepung Sentosa,Tepung Terigu,Tepung terigu protein tinggi,5750,kg,73344000,IDR,primary_supplier,INV-S01-2512-093.pdf,provided,2025,0.78
+TRX-2025-097,2025-03-16,S18,PT Digital Peralatan Kerja,Perangkat IT,Laptop kerja staf,35,unit,380479000,IDR,secondary_activity,INV-S18-2503-019.pdf,provided,2025,
+TRX-2025-094,2025-12-15,S12,PT Tepung Karya Pangan,Gula Pasir,Gula pasir curah,10850,kg,180074000,IDR,spend_based,INV-S12-2512-094.pdf,provided,2025,
+TRX-2025-095,2025-12-23,S16,PT Minyak Nabati Raya,Minyak Sawit,Minyak goreng curah,2600,kg,47113000,IDR,spend_based,INV-S16-2512-095.pdf,provided,2025,

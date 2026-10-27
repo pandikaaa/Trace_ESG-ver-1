@@ -1,0 +1,87 @@
+transaction_id,anomaly_type,note
+TRX-2025-035,unit_mismatch,"Satuan 'ton' padahal satuan standar kategori 'kg' (konversi otomatis, perlu konfirmasi)"
+TRX-2025-045,unit_mismatch,"Satuan 'ton' padahal satuan standar kategori 'kg' (konversi otomatis, perlu konfirmasi)"
+TRX-2025-079,unit_mismatch,"Satuan 'ton' padahal satuan standar kategori 'kg' (konversi otomatis, perlu konfirmasi)"
+TRX-2025-068,unit_mismatch,Satuan 'pcs' tidak kompatibel dengan faktor emisi berbasis massa
+TRX-2025-058,unit_mismatch,Satuan 'pcs' tidak kompatibel dengan faktor emisi berbasis massa
+TRX-2025-091,unit_mismatch,Satuan 'box' tidak kompatibel dengan faktor emisi berbasis massa
+TRX-2025-008,missing_required_field,activity_quantity kosong
+TRX-2025-047,missing_required_field,activity_quantity kosong
+TRX-2025-049,missing_required_field,supplier_name kosong
+TRX-2025-064,missing_required_field,activity_unit kosong
+TRX-2025-034,invalid_value,activity_quantity negatif
+TRX-2025-053,invalid_value,transaction_date bukan tanggal valid
+TRX-2025-014,inconsistent_reporting_period,reporting_period 2024 tetapi tanggal transaksi 2025
+TRX-2025-078,inconsistent_reporting_period,reporting_period 2024 tetapi tanggal transaksi 2025
+TRX-2025-093,inconsistent_reporting_period,tanggal transaksi 2026 tetapi reporting_period 2025
+TRX-2025-060,unit_mismatch,Mata uang USD; faktor berbasis pengeluaran hanya tersedia dalam IDR
+TRX-2025-054,evidence_missing,Bukti belum tersedia pada transaksi beremisi besar
+TRX-2025-028,evidence_missing,Bukti belum tersedia pada transaksi beremisi besar
+TRX-2025-062,evidence_missing,Bukti belum tersedia
+TRX-2025-056,evidence_missing,Bukti belum tersedia
+TRX-2025-009,evidence_missing,Bukti belum tersedia
+TRX-2025-070,evidence_missing,Bukti belum tersedia
+TRX-2025-027,evidence_missing,Bukti belum tersedia
+TRX-2025-002,evidence_missing,Bukti belum tersedia
+TRX-2025-043,evidence_missing,Bukti belum tersedia
+TRX-2025-041,evidence_missing,Bukti belum tersedia
+TRX-2025-022,evidence_missing,Bukti hanya sebagian
+TRX-2025-067,evidence_missing,Bukti hanya sebagian
+TRX-2025-082,evidence_missing,Bukti hanya sebagian
+TRX-2025-085,evidence_missing,"Bukti diminta, belum diterima"
+TRX-2025-080,evidence_missing,"Bukti diminta, belum diterima"
+TRX-2025-084,evidence_missing,Status 'provided' tetapi referensi kosong
+TRX-2025-046,evidence_missing,Status 'provided' tetapi referensi kosong
+TRX-2025-001,estimation_method_used,Estimasi berbasis pengeluaran
+TRX-2025-002,estimation_method_used,Estimasi berbasis pengeluaran
+TRX-2025-003,estimation_method_used,Estimasi berbasis pengeluaran
+TRX-2025-006,estimation_method_used,Estimasi berbasis pengeluaran
+TRX-2025-007,estimation_method_used,Estimasi berbasis pengeluaran
+TRX-2025-007,missing_factor_or_source,Kategori tidak ada di pustaka faktor emisi
+TRX-2025-009,estimation_method_used,Estimasi berbasis pengeluaran
+TRX-2025-011,estimation_method_used,Estimasi berbasis pengeluaran
+TRX-2025-012,estimation_method_used,Estimasi berbasis pengeluaran
+TRX-2025-014,estimation_method_used,Estimasi berbasis pengeluaran
+TRX-2025-015,estimation_method_used,Estimasi berbasis pengeluaran
+TRX-2025-018,estimation_method_used,Estimasi berbasis pengeluaran
+TRX-2025-020,estimation_method_used,Estimasi berbasis pengeluaran
+TRX-2025-021,estimation_method_used,Estimasi berbasis pengeluaran
+TRX-2025-022,estimation_method_used,Estimasi berbasis pengeluaran
+TRX-2025-024,missing_factor_or_source,Faktor emisi kategori ini tidak memiliki sumber
+TRX-2025-025,estimation_method_used,Estimasi berbasis pengeluaran
+TRX-2025-026,missing_factor_or_source,Faktor emisi kategori ini tidak memiliki sumber
+TRX-2025-031,estimation_method_used,Estimasi berbasis pengeluaran
+TRX-2025-033,estimation_method_used,Estimasi berbasis pengeluaran
+TRX-2025-036,missing_factor_or_source,Faktor emisi kategori ini tidak memiliki sumber
+TRX-2025-040,estimation_method_used,Estimasi berbasis pengeluaran
+TRX-2025-041,estimation_method_used,Estimasi berbasis pengeluaran
+TRX-2025-043,estimation_method_used,Estimasi berbasis pengeluaran
+TRX-2025-048,estimation_method_used,Estimasi berbasis pengeluaran
+TRX-2025-049,estimation_method_used,Estimasi berbasis pengeluaran
+TRX-2025-050,estimation_method_used,Estimasi berbasis pengeluaran
+TRX-2025-056,estimation_method_used,Estimasi berbasis pengeluaran
+TRX-2025-060,estimation_method_used,Estimasi berbasis pengeluaran
+TRX-2025-066,missing_factor_or_source,Kategori tidak ada di pustaka faktor emisi
+TRX-2025-067,estimation_method_used,Estimasi berbasis pengeluaran
+TRX-2025-069,estimation_method_used,Estimasi berbasis pengeluaran
+TRX-2025-070,estimation_method_used,Estimasi berbasis pengeluaran
+TRX-2025-071,missing_factor_or_source,Kategori tidak ada di pustaka faktor emisi
+TRX-2025-074,estimation_method_used,Estimasi berbasis pengeluaran
+TRX-2025-076,missing_factor_or_source,Faktor emisi kategori ini tidak memiliki sumber
+TRX-2025-077,estimation_method_used,Estimasi berbasis pengeluaran
+TRX-2025-080,estimation_method_used,Estimasi berbasis pengeluaran
+TRX-2025-083,estimation_method_used,Estimasi berbasis pengeluaran
+TRX-2025-084,estimation_method_used,Estimasi berbasis pengeluaran
+TRX-2025-086,estimation_method_used,Estimasi berbasis pengeluaran
+TRX-2025-088,estimation_method_used,Estimasi berbasis pengeluaran
+TRX-2025-089,missing_factor_or_source,Kategori tidak ada di pustaka faktor emisi
+TRX-2025-090,estimation_method_used,Estimasi berbasis pengeluaran
+TRX-2025-094,estimation_method_used,Estimasi berbasis pengeluaran
+TRX-2025-095,estimation_method_used,Estimasi berbasis pengeluaran
+TRX-2025-039,duplicate_transaction,ID transaksi muncul dua kali
+TRX-2025-024,duplicate_transaction,ID transaksi muncul dua kali
+TRX-2025-061,duplicate_transaction,ID transaksi muncul dua kali
+TRX-2025-087,duplicate_transaction,Isi transaksi identik dengan transaksi lain (ID berbeda)
+TRX-2025-096,duplicate_transaction,Salinan isi dari TRX-2025-087
+TRX-2025-019,duplicate_transaction,Isi transaksi identik dengan transaksi lain (ID berbeda)
+TRX-2025-097,duplicate_transaction,Salinan isi dari TRX-2025-019
